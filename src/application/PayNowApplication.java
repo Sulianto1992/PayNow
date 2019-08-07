@@ -35,4 +35,14 @@ public class PayNowApplication
 	   	 
 	   	 System.out.println("This is the develop branch");
 }
+    
+    void checkBalance() {
+    	System.out.println("This is a check balance method");
+	   	 System.out.println("Version 4");
+	   	 System.out.println("This is a develop branch");
+	   	 System.out.println("This is written by Developer B");
+
+	   	 
+	   	 System.out.println("This is the develop branch");
+}
 }
