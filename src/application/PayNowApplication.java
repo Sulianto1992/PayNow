@@ -35,4 +35,13 @@ public class PayNowApplication
 	   	 
 	   	 System.out.println("This is the develop branch");
 }
+    void logout() {
+    	System.out.println("This is a logout method");
+	   	 System.out.println("Version 2");
+	   	 System.out.println("This is a develop branch");
+	   	 System.out.println("This is written by Developer C");
+
+	   	 
+	   	 System.out.println("This is the develop branch");
+}
 }
