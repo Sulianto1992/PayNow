@@ -11,7 +11,7 @@ public class PayNowApplication
     {
 	   	 System.out.println("This is a login method");
 	   	 System.out.println("Version 1");
- feature/withdraw_money
+ 
 	   	 System.out.println("This is a develop branch");
     }
     
